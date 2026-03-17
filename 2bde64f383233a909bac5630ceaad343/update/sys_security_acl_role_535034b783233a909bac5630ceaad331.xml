@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-17 11:49:25</sys_created_on>
+        <sys_id>535034b783233a909bac5630ceaad331</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1831373_exampl_0_table_1.x_1831373_exampl_0.user</sys_name>
+        <sys_package display_value="Example App" source="x_1831373_exampl_0">2bde64f383233a909bac5630ceaad343</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Example App">2bde64f383233a909bac5630ceaad343</sys_scope>
+        <sys_security_acl display_value="x_1831373_exampl_0_table_1">db5034b783233a909bac5630ceaad32b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_535034b783233a909bac5630ceaad331</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-17 11:49:25</sys_updated_on>
+        <sys_user_role display_value="x_1831373_exampl_0.user" name="x_1831373_exampl_0.user">6fde64f383233a909bac5630ceaad356</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
